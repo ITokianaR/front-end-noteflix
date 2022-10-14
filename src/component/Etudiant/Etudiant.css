@@ -1,0 +1,12 @@
+.scrollable-div {
+    background-color: transparent;
+    height: 10000px;
+    overflow: auto;
+    margin: 0px;
+    text-align: justify;
+    padding: 20px;
+    
+}
+.th3{
+    background-color: blue;
+}
