@@ -16,15 +16,14 @@ function Resultat() {
 
   return(
   <>
-        
         <ul>
         {data.map((niveau) => {
           return(
             <li key={niveau.id}> <div className="niveau"> <Link to ={`/Resultat/Result/${niveau.niveau}/${niveau.id}`} className="link1"> {niveau.niveau} </Link> </div> </li>
           )
         })}
-        </ul>
-        
+        </ul>    
   </>)
 }
+
 export default Resultat;
