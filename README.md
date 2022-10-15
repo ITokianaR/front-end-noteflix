@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Notice : there is still no node_modules files in this so you have to manually add them, peace.
 
 ## Available Scripts
 
